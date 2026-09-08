@@ -2,15 +2,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7a9b76,50:a599c9,100:8b7fb5&height=220&section=header&text=Shreyas%20Raviprasad&fontSize=40&fontColor=fffdf7&fontAlignY=38&desc=A%20wandering%20engineer%20of%20reliable%20ML%20systems&descAlignY=58&descSize=16" width="100%" alt="Shreyas Raviprasad" />
 
-*Class:* **MLOps / ML Systems Engineer** · *Guild:* M.S. Computer Science @ NC State · 4.0 GPA
+Hey, I'm Shreyas 👋
 
-[🌿 Website](https://shreyas457.github.io) · [🪶 LinkedIn](https://linkedin.com/in/sravipr) · [✉️ Email](mailto:shreyasraviprasad457@gmail.com)
+*Class:* **MLOps / ML Systems Engineer** · *Guild:* M.S. Computer Science @ NC State (4.0 GPA)
+
+[🌐 Website](https://shreyas457.github.io) · [💼 LinkedIn](https://linkedin.com/in/sravipr) · [📫 Email](mailto:shreyasraviprasad457@gmail.com)
 
 </div>
 
 <br />
 
-> *A traveling engineer who forges data pipelines and tempers evaluation frameworks in the workshops of* **Mercedes-Benz** *and* **Bosch** *— two years spent building the quiet infrastructure that keeps ML systems honest.*
+> Two years building ML infrastructure for automotive R&D at **Mercedes-Benz** and **Bosch** — data pipelines, evaluation frameworks, and search systems at scale.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Mercedes--Benz-1a1a1a?style=for-the-badge&logo=mercedes&logoColor=00d2be" alt="Mercedes-Benz" />
+<img src="https://img.shields.io/badge/Bosch-e00016?style=for-the-badge&logo=bosch&logoColor=ffffff" alt="Bosch" />
+
+</div>
+
+<br />
 
 <div align="center">
 
@@ -32,28 +43,41 @@
 
 <div align="center">
 
-**Languages & frameworks**  
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,pandas,numpy,sklearn,postgres&perline=7" alt="Python, PyTorch, FastAPI, Pandas, NumPy, Scikit-learn, PostgreSQL" />
+**Languages & Frameworks**
 
-**Data, MLOps & cloud**  
-<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,git,githubactions,mongodb&perline=6" alt="Azure, Kubernetes, Docker, Git, GitHub Actions, MongoDB" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,pandas,numpy&perline=6" alt="Python, PyTorch, Scikit-learn, FastAPI, Pandas, NumPy" />
 
-`PySpark` · `Databricks` · `Delta Lake` · `Milvus` · `Qdrant` · `LanceDB` · `MLflow` · `ClearML` · `W&B` · `Great Expectations` · `Unity Catalog` · `Argo`
+`Pydantic` · `SQL`
 
-**Generative AI**  
-`LLMs` · `RAG` · `DSPy` · `LLM-as-a-Judge` · `GenAI evaluation` · `Prompt engineering`
+**Generative AI**
+
+`LLM` · `RAG` · `DSPy` · `LLM-as-a-Judge` · `GenAI Evaluation` · `Prompt Engineering`
+
+**Data Platform**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" alt="PostgreSQL, MongoDB" />
+
+`PySpark` · `Databricks` · `Delta Lake` · `Vector Databases` · `Milvus` · `Qdrant` · `LanceDB`
+
+**MLOps**
+
+`MLflow` · `ClearML` · `Weights & Biases` · `Great Expectations` · `Unity Catalog` · `CI/CD` · `Monitoring`
+
+**Cloud & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,git,githubactions&perline=5" alt="Azure, Kubernetes, Docker, Git, GitHub Actions" />
+
+`Argo`
 
 </div>
 
 ## 📖 Quest Log
 
-| | Reward |
-| --- | --- |
-| 🏗️ **Distributed data pipelines** | Processed millions of vehicle telemetry events with medallion architecture at Mercedes-Benz R&D |
-| 📉 **Evaluation efficiency** | Reduced LLM-as-a-Judge prompt token costs by **88%** through prompt registry optimization |
-| 🔍 **Multimodal search** | Enabled **72% faster** edge-case discovery across **2.5B+ driving scenarios** at Bosch |
-| 🏆 **HireLens** | Won a hackathon with a multimodal AI interview integrity system |
-| 📺 **TwelveLabs** | Presented on the TwelveLabs Multimodal Weekly series |
+- 🏗️ Built distributed data pipelines (medallion architecture) processing millions of vehicle telemetry events at **Mercedes-Benz** R&D
+- 📉 Cut LLM-as-a-Judge prompt token costs by **88%** through prompt registry optimization
+- 🔍 Enabled **72% faster** edge-case discovery across **2.5B+ driving scenarios** with multimodal search at **Bosch**
+- 🏆 Hackathon winner — **HireLens**, a multimodal AI interview integrity system
+- 📺 Presented on the TwelveLabs Multimodal Weekly series
 
 ## 🗺️ The Journey So Far
 
